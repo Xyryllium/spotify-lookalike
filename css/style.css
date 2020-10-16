@@ -20,3 +20,17 @@
   border-radius: 8px;
   background-color: #535353;
 }
+
+.gray-700-spotify {
+  background-color: #282828;
+}
+.gray-800-spotify {
+  background-color: #181818;
+}
+.gray-900-spotify {
+  background-color: #121212;
+}
+
+.w-200 {
+  width: 32rem;
+}
